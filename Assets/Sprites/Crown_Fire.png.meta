@@ -1,0 +1,4771 @@
+fileFormatVersion: 2
+guid: 052d5f6214224904c8cb6a0b66569ae9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8555899195375373251
+    second: Crown_Fire_0
+  - first:
+      213: 6581652519875525280
+    second: Crown_Fire_1
+  - first:
+      213: 3610426096646614255
+    second: Crown_Fire_2
+  - first:
+      213: 2520642031577031321
+    second: Crown_Fire_3
+  - first:
+      213: 5522176760948580555
+    second: Crown_Fire_4
+  - first:
+      213: 7898614256684671310
+    second: Crown_Fire_5
+  - first:
+      213: -353465824837713514
+    second: Crown_Fire_6
+  - first:
+      213: -6726913734264077677
+    second: Crown_Fire_7
+  - first:
+      213: 3442859168389854170
+    second: Crown_Fire_8
+  - first:
+      213: -7668192340924287619
+    second: Crown_Fire_9
+  - first:
+      213: 4981211526076326911
+    second: Crown_Fire_10
+  - first:
+      213: 1691880328480541903
+    second: Crown_Fire_11
+  - first:
+      213: 6220628927714490394
+    second: Crown_Fire_12
+  - first:
+      213: -8971811495782594252
+    second: Crown_Fire_13
+  - first:
+      213: -4275586643373050562
+    second: Crown_Fire_14
+  - first:
+      213: -5893755017200002271
+    second: Crown_Fire_15
+  - first:
+      213: -786250678028056273
+    second: Crown_Fire_16
+  - first:
+      213: 8185005550998686309
+    second: Crown_Fire_17
+  - first:
+      213: 8671504028767299333
+    second: Crown_Fire_18
+  - first:
+      213: -3768107503394368903
+    second: Crown_Fire_19
+  - first:
+      213: 6247683178140859435
+    second: Crown_Fire_20
+  - first:
+      213: 4418009274259184535
+    second: Crown_Fire_21
+  - first:
+      213: 7847032276729211995
+    second: Crown_Fire_22
+  - first:
+      213: -5290483681250108615
+    second: Crown_Fire_23
+  - first:
+      213: 5881028411316418350
+    second: Crown_Fire_24
+  - first:
+      213: -8026970611994908791
+    second: Crown_Fire_25
+  - first:
+      213: 4495659665241824768
+    second: Crown_Fire_26
+  - first:
+      213: -3657724911995032693
+    second: Crown_Fire_27
+  - first:
+      213: -7781820399153230215
+    second: Crown_Fire_28
+  - first:
+      213: -2628849861421186169
+    second: Crown_Fire_29
+  - first:
+      213: -1702692572068564024
+    second: Crown_Fire_30
+  - first:
+      213: 3425311853134452995
+    second: Crown_Fire_31
+  - first:
+      213: 7891133947350863252
+    second: Crown_Fire_32
+  - first:
+      213: 7955387868669293283
+    second: Crown_Fire_33
+  - first:
+      213: -8271480438814864548
+    second: Crown_Fire_34
+  - first:
+      213: -5097201496843002492
+    second: Crown_Fire_35
+  - first:
+      213: -8814651139206778750
+    second: Crown_Fire_36
+  - first:
+      213: -5614154589664744614
+    second: Crown_Fire_37
+  - first:
+      213: -8784061051026725992
+    second: Crown_Fire_38
+  - first:
+      213: -727705420422199390
+    second: Crown_Fire_39
+  - first:
+      213: 5869262743330258966
+    second: Crown_Fire_40
+  - first:
+      213: -4559433403078197873
+    second: Crown_Fire_41
+  - first:
+      213: 6329137064324914370
+    second: Crown_Fire_42
+  - first:
+      213: -3252290448186855382
+    second: Crown_Fire_43
+  - first:
+      213: 1151805560069904012
+    second: Crown_Fire_44
+  - first:
+      213: -520631152899887173
+    second: Crown_Fire_45
+  - first:
+      213: -3570482548569685181
+    second: Crown_Fire_46
+  - first:
+      213: 7331730208749087284
+    second: Crown_Fire_47
+  - first:
+      213: 3171591848678775383
+    second: Crown_Fire_48
+  - first:
+      213: 1893460303697711805
+    second: Crown_Fire_49
+  - first:
+      213: 908830037838918795
+    second: Crown_Fire_50
+  - first:
+      213: 1630990223351158774
+    second: Crown_Fire_51
+  - first:
+      213: -9121515125010366287
+    second: Crown_Fire_52
+  - first:
+      213: 8316165622824914746
+    second: Crown_Fire_53
+  - first:
+      213: -106597230195238908
+    second: Crown_Fire_54
+  - first:
+      213: 6062410197325961948
+    second: Crown_Fire_55
+  - first:
+      213: 3068087837044444407
+    second: Crown_Fire_56
+  - first:
+      213: 2609970791863244244
+    second: Crown_Fire_57
+  - first:
+      213: -6326926881191874911
+    second: Crown_Fire_58
+  - first:
+      213: -4755054781738684321
+    second: Crown_Fire_59
+  - first:
+      213: -2552862658080621504
+    second: Crown_Fire_60
+  - first:
+      213: 1440370169592836883
+    second: Crown_Fire_61
+  - first:
+      213: -136766173954568337
+    second: Crown_Fire_62
+  - first:
+      213: 4938086866881990864
+    second: Crown_Fire_63
+  - first:
+      213: -7518827877612547969
+    second: Crown_Fire_64
+  - first:
+      213: -6201837839911184982
+    second: Crown_Fire_65
+  - first:
+      213: 4218018035552342110
+    second: Crown_Fire_66
+  - first:
+      213: 3996960535507141626
+    second: Crown_Fire_67
+  - first:
+      213: -776959221339674860
+    second: Crown_Fire_68
+  - first:
+      213: -5118438587045720632
+    second: Crown_Fire_69
+  - first:
+      213: 4122598243613776824
+    second: Crown_Fire_70
+  - first:
+      213: 4798983766396033821
+    second: Crown_Fire_71
+  - first:
+      213: 2499285625917027808
+    second: Crown_Fire_72
+  - first:
+      213: 816677828250442830
+    second: Crown_Fire_73
+  - first:
+      213: 7254066667171769463
+    second: Crown_Fire_74
+  - first:
+      213: 8600418159272775121
+    second: Crown_Fire_75
+  - first:
+      213: 3771512786777848986
+    second: Crown_Fire_76
+  - first:
+      213: -5079041839192882318
+    second: Crown_Fire_77
+  - first:
+      213: 9172628620526054589
+    second: Crown_Fire_78
+  - first:
+      213: -3292722573508489722
+    second: Crown_Fire_79
+  - first:
+      213: -879708807474200297
+    second: Crown_Fire_80
+  - first:
+      213: -6479363280386459785
+    second: Crown_Fire_81
+  - first:
+      213: -8537417254984515229
+    second: Crown_Fire_82
+  - first:
+      213: 8764361465586200730
+    second: Crown_Fire_83
+  - first:
+      213: -9213339968819537943
+    second: Crown_Fire_84
+  - first:
+      213: 4531801825752083226
+    second: Crown_Fire_85
+  - first:
+      213: 1022195648714105478
+    second: Crown_Fire_86
+  - first:
+      213: 7238857273585194257
+    second: Crown_Fire_87
+  - first:
+      213: -7591640671102155314
+    second: Crown_Fire_88
+  - first:
+      213: -1165104147277902325
+    second: Crown_Fire_89
+  - first:
+      213: -359769716337987609
+    second: Crown_Fire_90
+  - first:
+      213: 5840584204148347360
+    second: Crown_Fire_91
+  - first:
+      213: 1675449483319200641
+    second: Crown_Fire_92
+  - first:
+      213: -5311816362526034166
+    second: Crown_Fire_93
+  - first:
+      213: 2594028593364873755
+    second: Crown_Fire_94
+  - first:
+      213: 7972693160185697683
+    second: Crown_Fire_95
+  - first:
+      213: -57429959315726974
+    second: Crown_Fire_96
+  - first:
+      213: 1245609313216363841
+    second: Crown_Fire_97
+  - first:
+      213: 470539923555298503
+    second: Crown_Fire_98
+  - first:
+      213: 5824856347228313832
+    second: Crown_Fire_99
+  - first:
+      213: 7877821686108586468
+    second: Crown_Fire_100
+  - first:
+      213: 5924914007789453457
+    second: Crown_Fire_101
+  - first:
+      213: -6258545180478484114
+    second: Crown_Fire_102
+  - first:
+      213: -1203162664980872435
+    second: Crown_Fire_103
+  - first:
+      213: 4627040531576242454
+    second: Crown_Fire_104
+  - first:
+      213: 7583369128842065900
+    second: Crown_Fire_105
+  - first:
+      213: -8964312826292742903
+    second: Crown_Fire_106
+  - first:
+      213: 8755412349936017271
+    second: Crown_Fire_107
+  - first:
+      213: 6995984243234657339
+    second: Crown_Fire_108
+  - first:
+      213: -2341629358233373657
+    second: Crown_Fire_109
+  - first:
+      213: -1956337554041126848
+    second: Crown_Fire_110
+  - first:
+      213: -2710421135333297195
+    second: Crown_Fire_111
+  - first:
+      213: 6369909091458400049
+    second: Crown_Fire_112
+  - first:
+      213: -2322276680670423247
+    second: Crown_Fire_113
+  - first:
+      213: 7392516319506596787
+    second: Crown_Fire_114
+  - first:
+      213: -4505031397720627869
+    second: Crown_Fire_115
+  - first:
+      213: 1633097867860808674
+    second: Crown_Fire_116
+  - first:
+      213: 7647738214104940376
+    second: Crown_Fire_117
+  - first:
+      213: -3083324227825262282
+    second: Crown_Fire_118
+  - first:
+      213: -5011762965051647803
+    second: Crown_Fire_119
+  - first:
+      213: -3442819763405695126
+    second: Crown_Fire_120
+  - first:
+      213: -5803409497708897847
+    second: Crown_Fire_121
+  - first:
+      213: -5276909985458658939
+    second: Crown_Fire_122
+  - first:
+      213: -577885824436412911
+    second: Crown_Fire_123
+  - first:
+      213: 1791067730696916650
+    second: Crown_Fire_124
+  - first:
+      213: 1983287252134514005
+    second: Crown_Fire_125
+  - first:
+      213: 4881801047123811361
+    second: Crown_Fire_126
+  - first:
+      213: -4367820187706467179
+    second: Crown_Fire_127
+  - first:
+      213: 7965007238487306345
+    second: Crown_Fire_128
+  - first:
+      213: -6712650057498484913
+    second: Crown_Fire_129
+  - first:
+      213: -4754729171960991004
+    second: Crown_Fire_130
+  - first:
+      213: 4199564959201425628
+    second: Crown_Fire_131
+  - first:
+      213: 404403059238607654
+    second: Crown_Fire_132
+  - first:
+      213: -5028368531762466829
+    second: Crown_Fire_133
+  - first:
+      213: 3039629342784944146
+    second: Crown_Fire_134
+  - first:
+      213: -7735303622651069353
+    second: Crown_Fire_135
+  - first:
+      213: 3831576618464783553
+    second: Crown_Fire_136
+  - first:
+      213: -6227351006713702349
+    second: Crown_Fire_137
+  - first:
+      213: -1268104690848608164
+    second: Crown_Fire_138
+  - first:
+      213: 5901868403913400298
+    second: Crown_Fire_139
+  - first:
+      213: -6852979812503550049
+    second: Crown_Fire_140
+  - first:
+      213: -9058530325907573662
+    second: Crown_Fire_141
+  - first:
+      213: 1187385735084196485
+    second: Crown_Fire_142
+  - first:
+      213: -3883129663802258111
+    second: Crown_Fire_143
+  - first:
+      213: -5847244553906836155
+    second: Crown_Fire_144
+  - first:
+      213: 6024451099372795712
+    second: Crown_Fire_145
+  - first:
+      213: 4659615746352269139
+    second: Crown_Fire_146
+  - first:
+      213: -1772835586656485112
+    second: Crown_Fire_147
+  - first:
+      213: -7151954052898381189
+    second: Crown_Fire_148
+  - first:
+      213: 3116734431822970585
+    second: Crown_Fire_149
+  - first:
+      213: -3428453073792749963
+    second: Crown_Fire_150
+  - first:
+      213: 9114273995672956762
+    second: Crown_Fire_151
+  - first:
+      213: -2784379483522786145
+    second: Crown_Fire_152
+  - first:
+      213: 4202951538831835353
+    second: Crown_Fire_153
+  - first:
+      213: -1486801157057337622
+    second: Crown_Fire_154
+  - first:
+      213: 585513655527619121
+    second: Crown_Fire_155
+  - first:
+      213: 200502583525333111
+    second: Crown_Fire_156
+  - first:
+      213: -8373096310975281060
+    second: Crown_Fire_157
+  - first:
+      213: 5664010746408440302
+    second: Crown_Fire_158
+  - first:
+      213: 2910966625820429153
+    second: Crown_Fire_159
+  - first:
+      213: -7575923126467445212
+    second: Crown_Fire_160
+  - first:
+      213: -4422803416298924070
+    second: Crown_Fire_161
+  - first:
+      213: -8527131041408678218
+    second: Crown_Fire_162
+  - first:
+      213: -2691161548519746271
+    second: Crown_Fire_163
+  - first:
+      213: 2349938327615471670
+    second: Crown_Fire_164
+  - first:
+      213: -7669164342215966989
+    second: Crown_Fire_165
+  - first:
+      213: 8557317204111535592
+    second: Crown_Fire_166
+  - first:
+      213: -2387994924655079149
+    second: Crown_Fire_167
+  - first:
+      213: -7249841058238446957
+    second: Crown_Fire_168
+  - first:
+      213: -9173043309843061632
+    second: Crown_Fire_169
+  - first:
+      213: -4636289714086546985
+    second: Crown_Fire_170
+  - first:
+      213: -4282883044749939769
+    second: Crown_Fire_171
+  - first:
+      213: 3837226086284756374
+    second: Crown_Fire_172
+  - first:
+      213: 8645004313136248664
+    second: Crown_Fire_173
+  - first:
+      213: -6312822190711835538
+    second: Crown_Fire_174
+  - first:
+      213: -326747841215390179
+    second: Crown_Fire_175
+  - first:
+      213: -3746320957832318375
+    second: Crown_Fire_176
+  - first:
+      213: 4773357060879526829
+    second: Crown_Fire_177
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Crown_Fire_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1318
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34b99d4307534980800000000000000
+      internalID: -8555899195375373251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1318
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa3c32881ab65b50800000000000000
+      internalID: 6581652519875525280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_2
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1318
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feceb62f76fca1230800000000000000
+      internalID: 3610426096646614255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1318
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9926112a29e1bf220800000000000000
+      internalID: 2520642031577031321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_4
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1318
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0e14f9186b2ac40800000000000000
+      internalID: 5522176760948580555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_5
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1318
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41a68b51d38d9d60800000000000000
+      internalID: 7898614256684671310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_6
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1318
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691ce4e74bc381bf0800000000000000
+      internalID: -353465824837713514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_7
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1260
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3924e72799335a2a0800000000000000
+      internalID: -6726913734264077677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_8
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1260
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3f29f2c2e77cf20800000000000000
+      internalID: 3442859168389854170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_9
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1260
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7536d991bb159590800000000000000
+      internalID: -7668192340924287619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_10
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1260
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff36cdacd71d02540800000000000000
+      internalID: 4981211526076326911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_11
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1260
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcccd8dd134ca7710800000000000000
+      internalID: 1691880328480541903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_12
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1260
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18f0fb2d0d145650800000000000000
+      internalID: 6220628927714490394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_13
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1260
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439cc12baf8bd7380800000000000000
+      internalID: -8971811495782594252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_14
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1196
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e353853d9901aa4c0800000000000000
+      internalID: -4275586643373050562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_15
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1196
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b1e9ec90d253ea0800000000000000
+      internalID: -5893755017200002271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_16
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1196
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f294abf8c2da615f0800000000000000
+      internalID: -786250678028056273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_17
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1196
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a80efbe2bf69170800000000000000
+      internalID: 8185005550998686309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_18
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1196
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5072b0778fe575870800000000000000
+      internalID: 8671504028767299333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_19
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1196
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972d1b0a03ef4bbc0800000000000000
+      internalID: -3768107503394368903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_20
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1196
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2cf446bfba34b650800000000000000
+      internalID: 6247683178140859435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_21
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1132
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b999ef60cef4d30800000000000000
+      internalID: 4418009274259184535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_22
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1132
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c2873c74246ec60800000000000000
+      internalID: 7847032276729211995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_23
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1132
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b16114f1d6496b0800000000000000
+      internalID: -5290483681250108615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_24
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1132
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27be7a5e2c9d9150800000000000000
+      internalID: 5881028411316418350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_25
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1132
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9872b81d1c87a9090800000000000000
+      internalID: -8026970611994908791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_26
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1132
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e5ac185aac36e30800000000000000
+      internalID: 4495659665241824768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_27
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1132
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b607e62962d3dc0800000000000000
+      internalID: -3657724911995032693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_28
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1062
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e459aa39b610490800000000000000
+      internalID: -7781820399153230215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_29
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1061
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783c722baf2748bd0800000000000000
+      internalID: -2628849861421186169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_30
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1062
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c338208022de58e0800000000000000
+      internalID: -1702692572068564024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_31
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1062
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309930b7bf6298f20800000000000000
+      internalID: 3425311853134452995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_32
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1061
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49dcfde1480f28d60800000000000000
+      internalID: 7891133947350863252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_33
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1061
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e23c7afd17376e60800000000000000
+      internalID: 7955387868669293283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_34
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1061
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b09d57d5cc53d80800000000000000
+      internalID: -8271480438814864548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_35
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1062
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d5518ae3a1349b0800000000000000
+      internalID: -5097201496843002492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_36
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1004
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280769cad711ca580800000000000000
+      internalID: -8814651139206778750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_37
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1004
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b67e055248612b0800000000000000
+      internalID: -5614154589664744614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_38
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1004
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8932538930fb81680800000000000000
+      internalID: -8784061051026725992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_39
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1004
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7cb9296cba6e5f0800000000000000
+      internalID: -727705420422199390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_40
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1004
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61082ad4e5fc37150800000000000000
+      internalID: 5869262743330258966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_41
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1004
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d39701a73a9b0c0800000000000000
+      internalID: -4559433403078197873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_42
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1004
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc58d570ac95d750800000000000000
+      internalID: 6329137064324914370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_43
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1004
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a203d69911b8dd2d0800000000000000
+      internalID: -3252290448186855382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_44
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 940
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86594aed090cff00800000000000000
+      internalID: 1151805560069904012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_45
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 940
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf666099b856c8f0800000000000000
+      internalID: -520631152899887173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_46
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 940
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343c5cf0a09137ec0800000000000000
+      internalID: -3570482548569685181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_47
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 940
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a6d7997c98fb560800000000000000
+      internalID: 7331730208749087284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_48
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 939
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ad5098bf1c30c20800000000000000
+      internalID: 3171591848678775383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_49
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 939
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2943e3d1ce64a10800000000000000
+      internalID: 1893460303697711805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_50
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 939
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84f79eaa10dc9c00800000000000000
+      internalID: 908830037838918795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_51
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 940
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f71bfe77f072a610800000000000000
+      internalID: 1630990223351158774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_52
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 876
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b08768525ed96180800000000000000
+      internalID: -9121515125010366287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_53
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 876
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f4bc1b294f86370800000000000000
+      internalID: 8316165622824914746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_54
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 876
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4081c28426a458ef0800000000000000
+      internalID: -106597230195238908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_55
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 876
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdad15654f1022450800000000000000
+      internalID: 6062410197325961948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_56
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 876
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc0bb2e1a9049a20800000000000000
+      internalID: 3068087837044444407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_57
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 876
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d557236b9a783420800000000000000
+      internalID: 2609970791863244244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_58
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 876
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae20b6e58d3238a0800000000000000
+      internalID: -6326926881191874911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_59
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 876
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5071fe8ed6a20eb0800000000000000
+      internalID: -4755054781738684321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_60
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 807
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04cbeb820f8629cd0800000000000000
+      internalID: -2552862658080621504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_61
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 807
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31376afa9093df310800000000000000
+      internalID: 1440370169592836883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_62
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 807
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f0620b3eb1a1ef0800000000000000
+      internalID: -136766173954568337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_63
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 806
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0d582a7db978440800000000000000
+      internalID: 4938086866881990864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_64
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 807
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70999bb1e1c7a790800000000000000
+      internalID: -7518827877612547969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_65
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 807
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa59485e755aee9a0800000000000000
+      internalID: -6201837839911184982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_66
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 807
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50d9492e09698a30800000000000000
+      internalID: 4218018035552342110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_67
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 806
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af388242e6e087730800000000000000
+      internalID: 3996960535507141626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_68
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 807
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417a51764bfa735f0800000000000000
+      internalID: -776959221339674860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_69
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 748
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cdcc764937a7f8b0800000000000000
+      internalID: -5118438587045720632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_70
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 747
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb9f369249663930800000000000000
+      internalID: 4122598243613776824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_71
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 748
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1bd6e63f4a699240800000000000000
+      internalID: 4798983766396033821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_72
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 748
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e53605f80f3fa220800000000000000
+      internalID: 2499285625917027808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_73
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 748
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c1ec8682c655b00800000000000000
+      internalID: 816677828250442830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_74
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 747
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c66c9333f9ba460800000000000000
+      internalID: 7254066667171769463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_75
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 748
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ddc547bfb2da5770800000000000000
+      internalID: 8600418159272775121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_76
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 748
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9cbcb1b5ea175430800000000000000
+      internalID: 3771512786777848986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_77
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 748
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273cf8f6b5e9389b0800000000000000
+      internalID: -5079041839192882318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_78
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 684
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc6907b129bb4f70800000000000000
+      internalID: 9172628620526054589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_79
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 684
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ecd16d346ed42d0800000000000000
+      internalID: -3292722573508489722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_80
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 684
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711c7b02085aac3f0800000000000000
+      internalID: -879708807474200297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_81
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 683
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777fad5fc6da416a0800000000000000
+      internalID: -6479363280386459785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_82
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 684
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3618b516d30058980800000000000000
+      internalID: -8537417254984515229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_83
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 684
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90336f315441a970800000000000000
+      internalID: 8764361465586200730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_84
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 684
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e75a9bdc14a32080800000000000000
+      internalID: -9213339968819537943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_85
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 683
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b6b6000c134ee30800000000000000
+      internalID: 4531801825752083226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_86
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 684
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682ed84d6819f2e00800000000000000
+      internalID: 1022195648714105478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_87
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 620
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1155cc35656957460800000000000000
+      internalID: 7238857273585194257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_88
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 619
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec54c88280315a690800000000000000
+      internalID: -7591640671102155314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_89
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 620
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e8a2773f7b4dfe0800000000000000
+      internalID: -1165104147277902325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_90
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 620
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef2bb06957d10bf0800000000000000
+      internalID: -359769716337987609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_91
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 620
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e11501936ced0150800000000000000
+      internalID: 5840584204148347360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_92
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 619
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b4a5c9d64604710800000000000000
+      internalID: 1675449483319200641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_93
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 620
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0737875923a846b0800000000000000
+      internalID: -5311816362526034166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_94
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 620
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1238bc0347dff320800000000000000
+      internalID: 2594028593364873755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_95
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 620
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3951e042032b4ae60800000000000000
+      internalID: 7972693160185697683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_96
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 550
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d558b91c7f33ff0800000000000000
+      internalID: -57429959315726974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_97
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 549
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14dfd23221b494110800000000000000
+      internalID: 1245609313216363841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_98
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 549
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc27244191b78600800000000000000
+      internalID: 470539923555298503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_99
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 550
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e819348cfb06d050800000000000000
+      internalID: 5824856347228313832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_100
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 550
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e10f54c515a35d60800000000000000
+      internalID: 7877821686108586468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_101
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 550
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190c60706e5893250800000000000000
+      internalID: 5924914007789453457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_102
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 492
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61d8da415e2529a0800000000000000
+      internalID: -6258545180478484114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_103
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 490
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d038dca4ee18d4fe0800000000000000
+      internalID: -1203162664980872435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_104
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 492
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611cfed29dc863040800000000000000
+      internalID: 4627040531576242454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_105
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 492
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce77b455b0a8d3960800000000000000
+      internalID: 7583369128842065900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_106
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 492
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905d75dbafc589380800000000000000
+      internalID: -8964312826292742903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_107
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 492
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f1104e429718970800000000000000
+      internalID: 8755412349936017271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_108
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 428
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b345b385a9ab61160800000000000000
+      internalID: 6995984243234657339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_109
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 428
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724bfd2518cd08fd0800000000000000
+      internalID: -2341629358233373657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_110
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 426
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0404f961c51b9d4e0800000000000000
+      internalID: -1956337554041126848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_111
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 427
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d37fbc7656a26ad0800000000000000
+      internalID: -2710421135333297195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_112
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 428
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13fb8e7c196766850800000000000000
+      internalID: 6369909091458400049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_113
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 428
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1375772b9ad95cfd0800000000000000
+      internalID: -2322276680670423247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_114
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 364
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b30874ec6e779660800000000000000
+      internalID: 7392516319506596787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_115
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 362
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36561ecffc9ea71c0800000000000000
+      internalID: -4505031397720627869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_116
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 364
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e39a49bbdde9a610800000000000000
+      internalID: 1633097867860808674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_117
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 364
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85fb7e2e269322a60800000000000000
+      internalID: 7647738214104940376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_118
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 364
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 631ae1173f4d535d0800000000000000
+      internalID: -3083324227825262282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_119
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 364
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c853a10324a27ab0800000000000000
+      internalID: -5011762965051647803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_120
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 294
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6752808aa5a830d0800000000000000
+      internalID: -3442819763405695126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_121
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 293
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9dee24fc5267fa0800000000000000
+      internalID: -5803409497708897847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_122
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 294
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58166059356a4c6b0800000000000000
+      internalID: -5276909985458658939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_123
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 294
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11edbb987efeaf7f0800000000000000
+      internalID: -577885824436412911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_124
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 294
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaecad09c962bd810800000000000000
+      internalID: 1791067730696916650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_125
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 294
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55dc9077f3d068b10800000000000000
+      internalID: 1983287252134514005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_126
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 294
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12cd1fdff24afb340800000000000000
+      internalID: 4881801047123811361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_127
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 294
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59cd9f45ea26263c0800000000000000
+      internalID: -4367820187706467179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_128
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 294
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960737b02e3698e60800000000000000
+      internalID: 7965007238487306345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_129
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 294
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f1c4d7650e7d2a0800000000000000
+      internalID: -6712650057498484913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_130
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 294
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2f31e720fc30eb0800000000000000
+      internalID: -4754729171960991004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_131
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 294
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8f064841ad74a30800000000000000
+      internalID: 4199564959201425628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_132
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 294
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b9ff3907abc9500800000000000000
+      internalID: 404403059238607654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_133
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 236
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ffab883675a73ab0800000000000000
+      internalID: -5028368531762466829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_134
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 236
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218fc8958ceee2a20800000000000000
+      internalID: 3039629342784944146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_135
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 236
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c371ea65ea6a490800000000000000
+      internalID: -7735303622651069353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_136
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 236
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc294942ae7c2530800000000000000
+      internalID: 3831576618464783553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_137
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 236
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3389829d0410499a0800000000000000
+      internalID: -6227351006713702349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_138
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 236
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5056fb9089c66ee0800000000000000
+      internalID: -1268104690848608164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_139
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 236
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef1c5e3b06a7e150800000000000000
+      internalID: 5901868403913400298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_140
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 236
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f978dce4b2355e0a0800000000000000
+      internalID: -6852979812503550049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_141
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 236
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264fc29a9a2a94280800000000000000
+      internalID: -9058530325907573662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_142
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 236
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5824f07f8017a7010800000000000000
+      internalID: 1187385735084196485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_143
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 236
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14dc84cf42a5c1ac0800000000000000
+      internalID: -3883129663802258111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_144
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 236
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54dab89ee0a6adea0800000000000000
+      internalID: -5847244553906836155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_145
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 236
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047b3d02b562b9350800000000000000
+      internalID: 6024451099372795712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_146
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 172
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357c42765d74aa040800000000000000
+      internalID: 4659615746352269139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_147
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 172
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8014b244d6f9567e0800000000000000
+      internalID: -1772835586656485112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_148
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 172
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72a31b7ea72fbc90800000000000000
+      internalID: -7151954052898381189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_149
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 172
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de790cd37dd04b20800000000000000
+      internalID: 3116734431822970585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_150
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 172
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57eac771810bb60d0800000000000000
+      internalID: -3428453073792749963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_151
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 172
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5faaa9d8e76c7e70800000000000000
+      internalID: 9114273995672956762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_152
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 172
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c1dbcac95eb59d0800000000000000
+      internalID: -2784379483522786145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_153
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 172
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0c0480822e35a30800000000000000
+      internalID: 4202951538831835353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_154
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 172
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae625fd9932dd5be0800000000000000
+      internalID: -1486801157057337622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_155
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 172
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a3dd84199202800800000000000000
+      internalID: 585513655527619121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_156
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 172
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7785393990458c200800000000000000
+      internalID: 200502583525333111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_157
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 172
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c584f2a8449cccb80800000000000000
+      internalID: -8373096310975281060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_158
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 172
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee19bafb3cb9a9e40800000000000000
+      internalID: 5664010746408440302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_159
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 108
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b4b0529b4d56820800000000000000
+      internalID: 2910966625820429153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_160
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 108
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ebd313e0aecd690800000000000000
+      internalID: -7575923126467445212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_161
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 108
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad75e14d9bb0f92c0800000000000000
+      internalID: -4422803416298924070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_162
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 108
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b601ab1f7b89a980800000000000000
+      internalID: -8527131041408678218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_163
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 108
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1255a4b74d217aad0800000000000000
+      internalID: -2691161548519746271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_164
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 108
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630889d5578ac9020800000000000000
+      internalID: 2349938327615471670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_165
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 108
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3feff1ae9a7a19590800000000000000
+      internalID: -7669164342215966989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_166
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 108
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed286598a2b1c670800000000000000
+      internalID: 8557317204111535592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_167
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 108
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3119f76a4432cded0800000000000000
+      internalID: -2387994924655079149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_168
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 108
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392c7a508f3636b90800000000000000
+      internalID: -7249841058238446957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_169
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 108
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084e787e5bdc2b080800000000000000
+      internalID: -9173043309843061632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_170
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 108
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1f214b11798afb0800000000000000
+      internalID: -4636289714086546985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_171
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 108
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cbe22fff842094c0800000000000000
+      internalID: -4282883044749939769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_172
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 44
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6958dd38bc0904530800000000000000
+      internalID: 3837226086284756374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_173
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 43
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857b43e9e9939f770800000000000000
+      internalID: 8645004313136248664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_174
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 36
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64fa601aa95468a0800000000000000
+      internalID: -6312822190711835538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_175
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 32
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e1b31d198277bf0800000000000000
+      internalID: -326747841215390179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_176
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 26
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952bdcd00f4620cc0800000000000000
+      internalID: -3746320957832318375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Fire_177
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 16
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daba3dfd4fe5e3240800000000000000
+      internalID: 4773357060879526829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Crown_Fire_0: -8555899195375373251
+      Crown_Fire_1: 6581652519875525280
+      Crown_Fire_10: 4981211526076326911
+      Crown_Fire_100: 7877821686108586468
+      Crown_Fire_101: 5924914007789453457
+      Crown_Fire_102: -6258545180478484114
+      Crown_Fire_103: -1203162664980872435
+      Crown_Fire_104: 4627040531576242454
+      Crown_Fire_105: 7583369128842065900
+      Crown_Fire_106: -8964312826292742903
+      Crown_Fire_107: 8755412349936017271
+      Crown_Fire_108: 6995984243234657339
+      Crown_Fire_109: -2341629358233373657
+      Crown_Fire_11: 1691880328480541903
+      Crown_Fire_110: -1956337554041126848
+      Crown_Fire_111: -2710421135333297195
+      Crown_Fire_112: 6369909091458400049
+      Crown_Fire_113: -2322276680670423247
+      Crown_Fire_114: 7392516319506596787
+      Crown_Fire_115: -4505031397720627869
+      Crown_Fire_116: 1633097867860808674
+      Crown_Fire_117: 7647738214104940376
+      Crown_Fire_118: -3083324227825262282
+      Crown_Fire_119: -5011762965051647803
+      Crown_Fire_12: 6220628927714490394
+      Crown_Fire_120: -3442819763405695126
+      Crown_Fire_121: -5803409497708897847
+      Crown_Fire_122: -5276909985458658939
+      Crown_Fire_123: -577885824436412911
+      Crown_Fire_124: 1791067730696916650
+      Crown_Fire_125: 1983287252134514005
+      Crown_Fire_126: 4881801047123811361
+      Crown_Fire_127: -4367820187706467179
+      Crown_Fire_128: 7965007238487306345
+      Crown_Fire_129: -6712650057498484913
+      Crown_Fire_13: -8971811495782594252
+      Crown_Fire_130: -4754729171960991004
+      Crown_Fire_131: 4199564959201425628
+      Crown_Fire_132: 404403059238607654
+      Crown_Fire_133: -5028368531762466829
+      Crown_Fire_134: 3039629342784944146
+      Crown_Fire_135: -7735303622651069353
+      Crown_Fire_136: 3831576618464783553
+      Crown_Fire_137: -6227351006713702349
+      Crown_Fire_138: -1268104690848608164
+      Crown_Fire_139: 5901868403913400298
+      Crown_Fire_14: -4275586643373050562
+      Crown_Fire_140: -6852979812503550049
+      Crown_Fire_141: -9058530325907573662
+      Crown_Fire_142: 1187385735084196485
+      Crown_Fire_143: -3883129663802258111
+      Crown_Fire_144: -5847244553906836155
+      Crown_Fire_145: 6024451099372795712
+      Crown_Fire_146: 4659615746352269139
+      Crown_Fire_147: -1772835586656485112
+      Crown_Fire_148: -7151954052898381189
+      Crown_Fire_149: 3116734431822970585
+      Crown_Fire_15: -5893755017200002271
+      Crown_Fire_150: -3428453073792749963
+      Crown_Fire_151: 9114273995672956762
+      Crown_Fire_152: -2784379483522786145
+      Crown_Fire_153: 4202951538831835353
+      Crown_Fire_154: -1486801157057337622
+      Crown_Fire_155: 585513655527619121
+      Crown_Fire_156: 200502583525333111
+      Crown_Fire_157: -8373096310975281060
+      Crown_Fire_158: 5664010746408440302
+      Crown_Fire_159: 2910966625820429153
+      Crown_Fire_16: -786250678028056273
+      Crown_Fire_160: -7575923126467445212
+      Crown_Fire_161: -4422803416298924070
+      Crown_Fire_162: -8527131041408678218
+      Crown_Fire_163: -2691161548519746271
+      Crown_Fire_164: 2349938327615471670
+      Crown_Fire_165: -7669164342215966989
+      Crown_Fire_166: 8557317204111535592
+      Crown_Fire_167: -2387994924655079149
+      Crown_Fire_168: -7249841058238446957
+      Crown_Fire_169: -9173043309843061632
+      Crown_Fire_17: 8185005550998686309
+      Crown_Fire_170: -4636289714086546985
+      Crown_Fire_171: -4282883044749939769
+      Crown_Fire_172: 3837226086284756374
+      Crown_Fire_173: 8645004313136248664
+      Crown_Fire_174: -6312822190711835538
+      Crown_Fire_175: -326747841215390179
+      Crown_Fire_176: -3746320957832318375
+      Crown_Fire_177: 4773357060879526829
+      Crown_Fire_18: 8671504028767299333
+      Crown_Fire_19: -3768107503394368903
+      Crown_Fire_2: 3610426096646614255
+      Crown_Fire_20: 6247683178140859435
+      Crown_Fire_21: 4418009274259184535
+      Crown_Fire_22: 7847032276729211995
+      Crown_Fire_23: -5290483681250108615
+      Crown_Fire_24: 5881028411316418350
+      Crown_Fire_25: -8026970611994908791
+      Crown_Fire_26: 4495659665241824768
+      Crown_Fire_27: -3657724911995032693
+      Crown_Fire_28: -7781820399153230215
+      Crown_Fire_29: -2628849861421186169
+      Crown_Fire_3: 2520642031577031321
+      Crown_Fire_30: -1702692572068564024
+      Crown_Fire_31: 3425311853134452995
+      Crown_Fire_32: 7891133947350863252
+      Crown_Fire_33: 7955387868669293283
+      Crown_Fire_34: -8271480438814864548
+      Crown_Fire_35: -5097201496843002492
+      Crown_Fire_36: -8814651139206778750
+      Crown_Fire_37: -5614154589664744614
+      Crown_Fire_38: -8784061051026725992
+      Crown_Fire_39: -727705420422199390
+      Crown_Fire_4: 5522176760948580555
+      Crown_Fire_40: 5869262743330258966
+      Crown_Fire_41: -4559433403078197873
+      Crown_Fire_42: 6329137064324914370
+      Crown_Fire_43: -3252290448186855382
+      Crown_Fire_44: 1151805560069904012
+      Crown_Fire_45: -520631152899887173
+      Crown_Fire_46: -3570482548569685181
+      Crown_Fire_47: 7331730208749087284
+      Crown_Fire_48: 3171591848678775383
+      Crown_Fire_49: 1893460303697711805
+      Crown_Fire_5: 7898614256684671310
+      Crown_Fire_50: 908830037838918795
+      Crown_Fire_51: 1630990223351158774
+      Crown_Fire_52: -9121515125010366287
+      Crown_Fire_53: 8316165622824914746
+      Crown_Fire_54: -106597230195238908
+      Crown_Fire_55: 6062410197325961948
+      Crown_Fire_56: 3068087837044444407
+      Crown_Fire_57: 2609970791863244244
+      Crown_Fire_58: -6326926881191874911
+      Crown_Fire_59: -4755054781738684321
+      Crown_Fire_6: -353465824837713514
+      Crown_Fire_60: -2552862658080621504
+      Crown_Fire_61: 1440370169592836883
+      Crown_Fire_62: -136766173954568337
+      Crown_Fire_63: 4938086866881990864
+      Crown_Fire_64: -7518827877612547969
+      Crown_Fire_65: -6201837839911184982
+      Crown_Fire_66: 4218018035552342110
+      Crown_Fire_67: 3996960535507141626
+      Crown_Fire_68: -776959221339674860
+      Crown_Fire_69: -5118438587045720632
+      Crown_Fire_7: -6726913734264077677
+      Crown_Fire_70: 4122598243613776824
+      Crown_Fire_71: 4798983766396033821
+      Crown_Fire_72: 2499285625917027808
+      Crown_Fire_73: 816677828250442830
+      Crown_Fire_74: 7254066667171769463
+      Crown_Fire_75: 8600418159272775121
+      Crown_Fire_76: 3771512786777848986
+      Crown_Fire_77: -5079041839192882318
+      Crown_Fire_78: 9172628620526054589
+      Crown_Fire_79: -3292722573508489722
+      Crown_Fire_8: 3442859168389854170
+      Crown_Fire_80: -879708807474200297
+      Crown_Fire_81: -6479363280386459785
+      Crown_Fire_82: -8537417254984515229
+      Crown_Fire_83: 8764361465586200730
+      Crown_Fire_84: -9213339968819537943
+      Crown_Fire_85: 4531801825752083226
+      Crown_Fire_86: 1022195648714105478
+      Crown_Fire_87: 7238857273585194257
+      Crown_Fire_88: -7591640671102155314
+      Crown_Fire_89: -1165104147277902325
+      Crown_Fire_9: -7668192340924287619
+      Crown_Fire_90: -359769716337987609
+      Crown_Fire_91: 5840584204148347360
+      Crown_Fire_92: 1675449483319200641
+      Crown_Fire_93: -5311816362526034166
+      Crown_Fire_94: 2594028593364873755
+      Crown_Fire_95: 7972693160185697683
+      Crown_Fire_96: -57429959315726974
+      Crown_Fire_97: 1245609313216363841
+      Crown_Fire_98: 470539923555298503
+      Crown_Fire_99: 5824856347228313832
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

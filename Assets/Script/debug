@@ -1,0 +1,1 @@
+Debug.Log("토끼 개수: " + FindObjectsOfType<Rabbit>().Length);

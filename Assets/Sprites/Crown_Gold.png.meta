@@ -1,0 +1,4771 @@
+fileFormatVersion: 2
+guid: c7637e79057adf4478c217f57093a912
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4162407548099554456
+    second: Crown_Gold_0
+  - first:
+      213: -8551141239175174190
+    second: Crown_Gold_1
+  - first:
+      213: -6617229824509175652
+    second: Crown_Gold_2
+  - first:
+      213: 521885392524087322
+    second: Crown_Gold_3
+  - first:
+      213: 8004603059969375170
+    second: Crown_Gold_4
+  - first:
+      213: -8997640614505636820
+    second: Crown_Gold_5
+  - first:
+      213: -2120611557546296181
+    second: Crown_Gold_6
+  - first:
+      213: 6117667509390825557
+    second: Crown_Gold_7
+  - first:
+      213: -6447461954469118931
+    second: Crown_Gold_8
+  - first:
+      213: -6045639747893554321
+    second: Crown_Gold_9
+  - first:
+      213: -969746491347040212
+    second: Crown_Gold_10
+  - first:
+      213: -2996250550965125111
+    second: Crown_Gold_11
+  - first:
+      213: 6842305090707733891
+    second: Crown_Gold_12
+  - first:
+      213: 8263339831100842754
+    second: Crown_Gold_13
+  - first:
+      213: -7120882001072008424
+    second: Crown_Gold_14
+  - first:
+      213: 3453958392830812426
+    second: Crown_Gold_15
+  - first:
+      213: -9122429713311282984
+    second: Crown_Gold_16
+  - first:
+      213: 2647566356475727350
+    second: Crown_Gold_17
+  - first:
+      213: 7802951823523097115
+    second: Crown_Gold_18
+  - first:
+      213: 2093424462526705895
+    second: Crown_Gold_19
+  - first:
+      213: 6287651665204998333
+    second: Crown_Gold_20
+  - first:
+      213: 7358012531848531037
+    second: Crown_Gold_21
+  - first:
+      213: -4357281895991588702
+    second: Crown_Gold_22
+  - first:
+      213: -8253747846038427077
+    second: Crown_Gold_23
+  - first:
+      213: -618493282624886743
+    second: Crown_Gold_24
+  - first:
+      213: 1284403242772943588
+    second: Crown_Gold_25
+  - first:
+      213: -6130754040051155723
+    second: Crown_Gold_26
+  - first:
+      213: 2907204616476153250
+    second: Crown_Gold_27
+  - first:
+      213: -4889775099318266236
+    second: Crown_Gold_28
+  - first:
+      213: 5893689301723614366
+    second: Crown_Gold_29
+  - first:
+      213: -8772874587584063333
+    second: Crown_Gold_30
+  - first:
+      213: 8113631910300999574
+    second: Crown_Gold_31
+  - first:
+      213: 4865889713720636865
+    second: Crown_Gold_32
+  - first:
+      213: -4848368480617306351
+    second: Crown_Gold_33
+  - first:
+      213: -4496009588119986302
+    second: Crown_Gold_34
+  - first:
+      213: -8410141298431494265
+    second: Crown_Gold_35
+  - first:
+      213: -4157499467711555258
+    second: Crown_Gold_36
+  - first:
+      213: 3006986999863415023
+    second: Crown_Gold_37
+  - first:
+      213: -2620728749556118256
+    second: Crown_Gold_38
+  - first:
+      213: 3086777910594368409
+    second: Crown_Gold_39
+  - first:
+      213: -7092496306873387976
+    second: Crown_Gold_40
+  - first:
+      213: -6508978690558080146
+    second: Crown_Gold_41
+  - first:
+      213: -8839345899934929770
+    second: Crown_Gold_42
+  - first:
+      213: 1240367668974033140
+    second: Crown_Gold_43
+  - first:
+      213: 6151169197738425
+    second: Crown_Gold_44
+  - first:
+      213: -1177064184184142869
+    second: Crown_Gold_45
+  - first:
+      213: 3734758408264783734
+    second: Crown_Gold_46
+  - first:
+      213: -8959115095413891733
+    second: Crown_Gold_47
+  - first:
+      213: 5952377849829488658
+    second: Crown_Gold_48
+  - first:
+      213: 2897269157489929348
+    second: Crown_Gold_49
+  - first:
+      213: 3313140251855736750
+    second: Crown_Gold_50
+  - first:
+      213: -2118195238434305990
+    second: Crown_Gold_51
+  - first:
+      213: 8330660055355521140
+    second: Crown_Gold_52
+  - first:
+      213: -5999878787019607273
+    second: Crown_Gold_53
+  - first:
+      213: -5800678239351286040
+    second: Crown_Gold_54
+  - first:
+      213: 6239833160095637444
+    second: Crown_Gold_55
+  - first:
+      213: 8482610197634480023
+    second: Crown_Gold_56
+  - first:
+      213: -694712578931544530
+    second: Crown_Gold_57
+  - first:
+      213: -956592533401624679
+    second: Crown_Gold_58
+  - first:
+      213: 4775351516161394518
+    second: Crown_Gold_59
+  - first:
+      213: 3282749173945161720
+    second: Crown_Gold_60
+  - first:
+      213: -5935402513109109216
+    second: Crown_Gold_61
+  - first:
+      213: 2269022379021181237
+    second: Crown_Gold_62
+  - first:
+      213: 2028112648936208657
+    second: Crown_Gold_63
+  - first:
+      213: 4405843090720370716
+    second: Crown_Gold_64
+  - first:
+      213: 8634407916113202936
+    second: Crown_Gold_65
+  - first:
+      213: 1584357244943596339
+    second: Crown_Gold_66
+  - first:
+      213: -7780449479418082827
+    second: Crown_Gold_67
+  - first:
+      213: -1043260957970606844
+    second: Crown_Gold_68
+  - first:
+      213: -8477036901614695125
+    second: Crown_Gold_69
+  - first:
+      213: -1303999717730249900
+    second: Crown_Gold_70
+  - first:
+      213: 9145794323052080457
+    second: Crown_Gold_71
+  - first:
+      213: -8978365608066717448
+    second: Crown_Gold_72
+  - first:
+      213: -6850227933405559786
+    second: Crown_Gold_73
+  - first:
+      213: -8464767631749048874
+    second: Crown_Gold_74
+  - first:
+      213: 5017383740430881754
+    second: Crown_Gold_75
+  - first:
+      213: -5919052708428817965
+    second: Crown_Gold_76
+  - first:
+      213: -4632458423314049566
+    second: Crown_Gold_77
+  - first:
+      213: -1846993662915711991
+    second: Crown_Gold_78
+  - first:
+      213: -2340382480427569333
+    second: Crown_Gold_79
+  - first:
+      213: 4089003667740058638
+    second: Crown_Gold_80
+  - first:
+      213: 7279448708949379672
+    second: Crown_Gold_81
+  - first:
+      213: 8722801403612590868
+    second: Crown_Gold_82
+  - first:
+      213: -5037660745135415944
+    second: Crown_Gold_83
+  - first:
+      213: -2265838185517522748
+    second: Crown_Gold_84
+  - first:
+      213: 6409516559183570798
+    second: Crown_Gold_85
+  - first:
+      213: 7907676604680116801
+    second: Crown_Gold_86
+  - first:
+      213: 1678121970422034796
+    second: Crown_Gold_87
+  - first:
+      213: -576229440191857176
+    second: Crown_Gold_88
+  - first:
+      213: -8988905303344043724
+    second: Crown_Gold_89
+  - first:
+      213: -2871539316238887787
+    second: Crown_Gold_90
+  - first:
+      213: 1326588315358955914
+    second: Crown_Gold_91
+  - first:
+      213: -182037991084223848
+    second: Crown_Gold_92
+  - first:
+      213: 3261495507002394249
+    second: Crown_Gold_93
+  - first:
+      213: 4611494691259884199
+    second: Crown_Gold_94
+  - first:
+      213: -8417221791689648261
+    second: Crown_Gold_95
+  - first:
+      213: 4492581527461670851
+    second: Crown_Gold_96
+  - first:
+      213: -5487466850110169089
+    second: Crown_Gold_97
+  - first:
+      213: 7050094600118447755
+    second: Crown_Gold_98
+  - first:
+      213: -3846003784046701482
+    second: Crown_Gold_99
+  - first:
+      213: -2408392839442018522
+    second: Crown_Gold_100
+  - first:
+      213: -8262871345414195038
+    second: Crown_Gold_101
+  - first:
+      213: -5527402303136035000
+    second: Crown_Gold_102
+  - first:
+      213: -735160386969955671
+    second: Crown_Gold_103
+  - first:
+      213: 1474768835711645413
+    second: Crown_Gold_104
+  - first:
+      213: -1270009057439610973
+    second: Crown_Gold_105
+  - first:
+      213: 6495329143858515226
+    second: Crown_Gold_106
+  - first:
+      213: -4199413554845289830
+    second: Crown_Gold_107
+  - first:
+      213: 2823928109802099866
+    second: Crown_Gold_108
+  - first:
+      213: -5858229599034386811
+    second: Crown_Gold_109
+  - first:
+      213: 8346541868324101861
+    second: Crown_Gold_110
+  - first:
+      213: 8511234877689453712
+    second: Crown_Gold_111
+  - first:
+      213: -1011179623413332705
+    second: Crown_Gold_112
+  - first:
+      213: 2208590141566639636
+    second: Crown_Gold_113
+  - first:
+      213: -7738937821505226968
+    second: Crown_Gold_114
+  - first:
+      213: 7863597691101947755
+    second: Crown_Gold_115
+  - first:
+      213: -6025220580765982446
+    second: Crown_Gold_116
+  - first:
+      213: 2231896003578291917
+    second: Crown_Gold_117
+  - first:
+      213: 8603133970708842891
+    second: Crown_Gold_118
+  - first:
+      213: 2777907225532726834
+    second: Crown_Gold_119
+  - first:
+      213: 7546980934345674282
+    second: Crown_Gold_120
+  - first:
+      213: 7989527616409876964
+    second: Crown_Gold_121
+  - first:
+      213: -6555206566762288148
+    second: Crown_Gold_122
+  - first:
+      213: -5340611529539097181
+    second: Crown_Gold_123
+  - first:
+      213: -4003478404516242216
+    second: Crown_Gold_124
+  - first:
+      213: 5557034337706515423
+    second: Crown_Gold_125
+  - first:
+      213: -1793620429855964602
+    second: Crown_Gold_126
+  - first:
+      213: 8841407113864439743
+    second: Crown_Gold_127
+  - first:
+      213: -8719441443595561565
+    second: Crown_Gold_128
+  - first:
+      213: 3684030392663489888
+    second: Crown_Gold_129
+  - first:
+      213: -2856291629857109205
+    second: Crown_Gold_130
+  - first:
+      213: -3746688308514269568
+    second: Crown_Gold_131
+  - first:
+      213: 4826495983327764510
+    second: Crown_Gold_132
+  - first:
+      213: 3400964166648795793
+    second: Crown_Gold_133
+  - first:
+      213: -8377259149209341532
+    second: Crown_Gold_134
+  - first:
+      213: 8269484066159171316
+    second: Crown_Gold_135
+  - first:
+      213: 610493252737682053
+    second: Crown_Gold_136
+  - first:
+      213: -2626035024273415625
+    second: Crown_Gold_137
+  - first:
+      213: -1221904169663401507
+    second: Crown_Gold_138
+  - first:
+      213: -824418384210387455
+    second: Crown_Gold_139
+  - first:
+      213: 188319253157174605
+    second: Crown_Gold_140
+  - first:
+      213: -3597711407137680168
+    second: Crown_Gold_141
+  - first:
+      213: 5517731974119426843
+    second: Crown_Gold_142
+  - first:
+      213: 184291586950667978
+    second: Crown_Gold_143
+  - first:
+      213: 1007498169098701840
+    second: Crown_Gold_144
+  - first:
+      213: 504541549629017022
+    second: Crown_Gold_145
+  - first:
+      213: -8581883901651871646
+    second: Crown_Gold_146
+  - first:
+      213: -4004423800040371291
+    second: Crown_Gold_147
+  - first:
+      213: 8086345881813072920
+    second: Crown_Gold_148
+  - first:
+      213: -3857837789780521526
+    second: Crown_Gold_149
+  - first:
+      213: 7465800975315849117
+    second: Crown_Gold_150
+  - first:
+      213: -2590089045940289359
+    second: Crown_Gold_151
+  - first:
+      213: 8781001714981891128
+    second: Crown_Gold_152
+  - first:
+      213: -61004766843770511
+    second: Crown_Gold_153
+  - first:
+      213: 7531886647381395280
+    second: Crown_Gold_154
+  - first:
+      213: -1253989414712993360
+    second: Crown_Gold_155
+  - first:
+      213: 1884230820282675287
+    second: Crown_Gold_156
+  - first:
+      213: -8092267811659372238
+    second: Crown_Gold_157
+  - first:
+      213: 5892304714593795267
+    second: Crown_Gold_158
+  - first:
+      213: -5193768356983003715
+    second: Crown_Gold_159
+  - first:
+      213: 3532673890040504653
+    second: Crown_Gold_160
+  - first:
+      213: -1867508376361810924
+    second: Crown_Gold_161
+  - first:
+      213: 3831138430076072590
+    second: Crown_Gold_162
+  - first:
+      213: 2385059539866538862
+    second: Crown_Gold_163
+  - first:
+      213: 3709473828592962943
+    second: Crown_Gold_164
+  - first:
+      213: 4876557836980381937
+    second: Crown_Gold_165
+  - first:
+      213: -4671569733760958810
+    second: Crown_Gold_166
+  - first:
+      213: 5246463060561380615
+    second: Crown_Gold_167
+  - first:
+      213: -3246509850400901225
+    second: Crown_Gold_168
+  - first:
+      213: -6616017572009813663
+    second: Crown_Gold_169
+  - first:
+      213: -7630646459274272080
+    second: Crown_Gold_170
+  - first:
+      213: 4372336077770978000
+    second: Crown_Gold_171
+  - first:
+      213: -8882929560152692529
+    second: Crown_Gold_172
+  - first:
+      213: 3437718079352444771
+    second: Crown_Gold_173
+  - first:
+      213: 6968154807205135022
+    second: Crown_Gold_174
+  - first:
+      213: -4686419799256887030
+    second: Crown_Gold_175
+  - first:
+      213: 4777306233566126630
+    second: Crown_Gold_176
+  - first:
+      213: 5362712877187562217
+    second: Crown_Gold_177
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Crown_Gold_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1318
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ce0e29c97d3c930800000000000000
+      internalID: 4162407548099554456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1318
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d725ce495e345980800000000000000
+      internalID: -8551141239175174190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_2
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1318
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c989201c880ea24a0800000000000000
+      internalID: -6617229824509175652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1318
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a101ddadffb1e3700800000000000000
+      internalID: 521885392524087322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_4
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1318
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cbba75a210161f60800000000000000
+      internalID: 8004603059969375170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_5
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1318
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c93cb5885f12380800000000000000
+      internalID: -8997640614505636820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_6
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1318
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c7ddd16031292e0800000000000000
+      internalID: -2120611557546296181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_7
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1260
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558503fdf2256e450800000000000000
+      internalID: 6117667509390825557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_8
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1260
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2cb50533830686a0800000000000000
+      internalID: -6447461954469118931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_9
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1260
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6392d23ea2991ca0800000000000000
+      internalID: -6045639747893554321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_10
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1260
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28041d34b4ca82f0800000000000000
+      internalID: -969746491347040212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_11
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1260
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900c7abaffd2b66d0800000000000000
+      internalID: -2996250550965125111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_12
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1260
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d3b785a30c4fe50800000000000000
+      internalID: 6842305090707733891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_13
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1260
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2032a1b9bc74da270800000000000000
+      internalID: 8263339831100842754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_14
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1196
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81351ae4c8b8d2d90800000000000000
+      internalID: -7120882001072008424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_15
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1196
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01e8a1cbdceeef20800000000000000
+      internalID: 3453958392830812426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_16
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1196
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8cc99228e966180800000000000000
+      internalID: -9122429713311282984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_17
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1196
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fdc205e29b0eb420800000000000000
+      internalID: 2647566356475727350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_18
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1196
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1aa4987757a94c60800000000000000
+      internalID: 7802951823523097115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_19
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1196
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0740d05765d0d10800000000000000
+      internalID: 2093424462526705895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_20
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1196
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0ffe740e9324750800000000000000
+      internalID: 6287651665204998333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_21
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1132
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c44bdc969ec1660800000000000000
+      internalID: 7358012531848531037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_22
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1132
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a84e239333d783c0800000000000000
+      internalID: -4357281895991588702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_23
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1132
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3aeb33701cc47d80800000000000000
+      internalID: -8253747846038427077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_24
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1132
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928ad29e2abaa67f0800000000000000
+      internalID: -618493282624886743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_25
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1132
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e257d9b1fd13d110800000000000000
+      internalID: 1284403242772943588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_26
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1132
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fcb575ceaf2beaa0800000000000000
+      internalID: -6130754040051155723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_27
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1132
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5df661237785820800000000000000
+      internalID: 2907204616476153250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_28
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1062
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486959d4477042cb0800000000000000
+      internalID: -4889775099318266236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_29
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1061
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c81cd91379ac150800000000000000
+      internalID: 5893689301723614366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_30
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1062
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9810041b0d704680800000000000000
+      internalID: -8772874587584063333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_31
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1062
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69fd3cb0c39699070800000000000000
+      internalID: 8113631910300999574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_32
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1061
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5bb8ef9ec178340800000000000000
+      internalID: 4865889713720636865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_33
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1061
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117ea9cfd8227bcb0800000000000000
+      internalID: -4848368480617306351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_34
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1061
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f9b59b917fa91c0800000000000000
+      internalID: -4496009588119986302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_35
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1062
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787f5244c0d294b80800000000000000
+      internalID: -8410141298431494265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_36
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1004
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6495d21f2489d46c0800000000000000
+      internalID: -4157499467711555258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_37
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1004
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe09313aeb6fab920800000000000000
+      internalID: 3006986999863415023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_38
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1004
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01dcd06661d41abd0800000000000000
+      internalID: -2620728749556118256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_39
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1004
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993ff7db72076da20800000000000000
+      internalID: 3086777910594368409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_40
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1004
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834ba02cf24629d90800000000000000
+      internalID: -7092496306873387976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_41
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1004
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6bc2b2fd567ba5a0800000000000000
+      internalID: -6508978690558080146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_42
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1004
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ca293acb5545580800000000000000
+      internalID: -8839345899934929770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_43
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1004
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8931cb2dba63110800000000000000
+      internalID: 1240367668974033140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_44
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 940
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b90cfea47ad51000800000000000000
+      internalID: 6151169197738425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_45
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 940
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be38edf5c5a3aafe0800000000000000
+      internalID: -1177064184184142869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_46
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 940
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67796861cf684d330800000000000000
+      internalID: 3734758408264783734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_47
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 940
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6dd304c944daa380800000000000000
+      internalID: -8959115095413891733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_48
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 939
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2187dfb0e181b9250800000000000000
+      internalID: 5952377849829488658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_49
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 939
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ce1e6c2fa253820800000000000000
+      internalID: 2897269157489929348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_50
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 939
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eafc8ea5183aafd20800000000000000
+      internalID: 3313140251855736750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_51
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 940
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38033047a8aa92e0800000000000000
+      internalID: -2118195238434305990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_52
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 876
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4787000ce237c9370800000000000000
+      internalID: 8330660055355521140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_53
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 876
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7137b4c28062cbca0800000000000000
+      internalID: -5999878787019607273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_54
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 876
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6d027efd9df7fa0800000000000000
+      internalID: -5800678239351286040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_55
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 876
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf1435f237589650800000000000000
+      internalID: 6239833160095637444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_56
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 876
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797fb1e280948b570800000000000000
+      internalID: 8482610197634480023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_57
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 876
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e2ac71792eb56f0800000000000000
+      internalID: -694712578931544530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_58
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 876
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f1ecbb82089b2f0800000000000000
+      internalID: -956592533401624679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_59
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 876
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6574c6e27e4754240800000000000000
+      internalID: 4775351516161394518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_60
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 807
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f755bf1bfaae8d20800000000000000
+      internalID: 3282749173945161720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_61
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 807
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026bb278cd631ada0800000000000000
+      internalID: -5935402513109109216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_62
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 807
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53128f8f4df2d7f10800000000000000
+      internalID: 2269022379021181237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_63
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 806
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119b15475bd452c10800000000000000
+      internalID: 2028112648936208657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_64
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 807
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c103f76a2f2b42d30800000000000000
+      internalID: 4405843090720370716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_65
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 807
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe8fbda04493d770800000000000000
+      internalID: 8634407916113202936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_66
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 807
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33bfd2e1584ccf510800000000000000
+      internalID: 1584357244943596339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_67
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 806
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9896acb6a460490800000000000000
+      internalID: -7780449479418082827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_68
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 807
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405d028afa79581f0800000000000000
+      internalID: -1043260957970606844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_69
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 748
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2dc06be9d38b5a80800000000000000
+      internalID: -8477036901614695125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_70
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 747
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4539a756a2347ede0800000000000000
+      internalID: -1303999717730249900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_71
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 748
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94dad46fa736cee70800000000000000
+      internalID: 9145794323052080457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_72
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 748
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f869938c00766380800000000000000
+      internalID: -8978365608066717448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_73
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 748
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61447e61df91fe0a0800000000000000
+      internalID: -6850227933405559786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_74
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 747
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d59f5befaa178a80800000000000000
+      internalID: -8464767631749048874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_75
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 748
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3143ebde351a540800000000000000
+      internalID: 5017383740430881754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_76
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 748
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d959431cec4bdda0800000000000000
+      internalID: -5919052708428817965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_77
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 748
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e599999b9336bfb0800000000000000
+      internalID: -4632458423314049566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_78
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 684
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ce283ac092e56e0800000000000000
+      internalID: -1846993662915711991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_79
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 684
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f219fa88a458fd0800000000000000
+      internalID: -2340382480427569333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_80
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 684
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e046aecdb2f0fb830800000000000000
+      internalID: 4089003667740058638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_81
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 683
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a8a99580cc50560800000000000000
+      internalID: 7279448708949379672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_82
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 684
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4137b9449ad9d0970800000000000000
+      internalID: 8722801403612590868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_83
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 684
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d16433e32a61ab0800000000000000
+      internalID: -5037660745135415944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_84
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 684
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c066b9dc202e80e0800000000000000
+      internalID: -2265838185517522748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_85
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 683
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67ee1cf95d23f850800000000000000
+      internalID: 6409516559183570798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_86
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 684
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a10aca9f5bdbd60800000000000000
+      internalID: 7907676604680116801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_87
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 620
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61b8c08a03e94710800000000000000
+      internalID: 1678121970422034796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_88
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 619
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8edfd3c8062d008f0800000000000000
+      internalID: -576229440191857176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_89
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 620
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439ad8a704ef04380800000000000000
+      internalID: -8988905303344043724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_90
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 620
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5945309b43e3628d0800000000000000
+      internalID: -2871539316238887787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_91
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 620
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8987245b0df86210800000000000000
+      internalID: 1326588315358955914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_92
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 619
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8929ccd5965497df0800000000000000
+      internalID: -182037991084223848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_93
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 620
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986096b22e8234d20800000000000000
+      internalID: 3261495507002394249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_94
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 620
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2252c2df15fff30800000000000000
+      internalID: 4611494691259884199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_95
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 620
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7759a67065003b80800000000000000
+      internalID: -8417221791689648261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_96
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 550
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cfa5d4b81bd85e30800000000000000
+      internalID: 4492581527461670851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_97
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 549
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff937249f998d3b0800000000000000
+      internalID: -5487466850110169089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_98
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 549
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ea5f09fa7f6d160800000000000000
+      internalID: 7050094600118447755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_99
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 550
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65496177fef30aac0800000000000000
+      internalID: -3846003784046701482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_100
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 550
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62fc675097ba39ed0800000000000000
+      internalID: -2408392839442018522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_101
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 550
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a835d73a42645d80800000000000000
+      internalID: -8262871345414195038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_102
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 492
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f86e604e8ba43b0800000000000000
+      internalID: -5527402303136035000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_103
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 490
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a297b9e58f2cc5f0800000000000000
+      internalID: -735160386969955671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_104
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 492
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6b862417e677410800000000000000
+      internalID: 1474768835711645413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_105
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 492
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a788c5bd75006ee0800000000000000
+      internalID: -1270009057439610973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_106
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 492
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1dcdee417b042a50800000000000000
+      internalID: 6495329143858515226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_107
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 492
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a927c7e0f9fa8b5c0800000000000000
+      internalID: -4199413554845289830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_108
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 428
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a949eff67ab903720800000000000000
+      internalID: 2823928109802099866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_109
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 428
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58650e8c73363bea0800000000000000
+      internalID: -5858229599034386811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_110
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 426
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee126c7b9fd4d370800000000000000
+      internalID: 8346541868324101861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_111
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 427
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c589cd60bfd1670800000000000000
+      internalID: 8511234877689453712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_112
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 428
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15c55e6d7197f1f0800000000000000
+      internalID: -1011179623413332705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_113
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 428
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e528a380d76ae10800000000000000
+      internalID: 2208590141566639636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_114
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 364
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8277852dd05c99490800000000000000
+      internalID: -7738937821505226968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_115
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 362
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67a6badf6c112d60800000000000000
+      internalID: 7863597691101947755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_116
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 364
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21122160ecd126ca0800000000000000
+      internalID: -6025220580765982446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_117
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 364
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6e5e4179949fe10800000000000000
+      internalID: 2231896003578291917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_118
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 364
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b894237d3c8746770800000000000000
+      internalID: 8603133970708842891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_119
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 364
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e7ed457eb1d8620800000000000000
+      internalID: 2777907225532726834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_120
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 294
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ec1569c234cb860800000000000000
+      internalID: 7546980934345674282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_121
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 293
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9b84b690180ee60800000000000000
+      internalID: 7989527616409876964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_122
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 294
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb63d6cb5a3705a0800000000000000
+      internalID: -6555206566762288148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_123
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 294
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad67721c1652e5b0800000000000000
+      internalID: -5340611529539097181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_124
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 294
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc9cd83a99c078c0800000000000000
+      internalID: -4003478404516242216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_125
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 294
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb15a7a94d8e1d40800000000000000
+      internalID: 5557034337706515423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_126
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 294
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6424d88d8b7cb17e0800000000000000
+      internalID: -1793620429855964602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_127
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 294
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb760802decf2ba70800000000000000
+      internalID: 8841407113864439743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_128
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 294
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5daa264325ef680800000000000000
+      internalID: -8719441443595561565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_129
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 294
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d33709f1e402330800000000000000
+      internalID: 3684030392663489888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_130
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 294
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b027b55e96c58d0800000000000000
+      internalID: -2856291629857109205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_131
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 294
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086d5ee85d6110cc0800000000000000
+      internalID: -3746688308514269568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_132
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 294
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10e91466882bf240800000000000000
+      internalID: 4826495983327764510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_133
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 236
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1921fe6f3e6a23f20800000000000000
+      internalID: 3400964166648795793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_134
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 236
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a17cfb303ffdbb80800000000000000
+      internalID: -8377259149209341532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_135
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 236
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f69b2fc1fb13c270800000000000000
+      internalID: 8269484066159171316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_136
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 236
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ac33bf068e87800800000000000000
+      internalID: 610493252737682053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_137
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 236
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732e27a0f037e8bd0800000000000000
+      internalID: -2626035024273415625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_138
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 236
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1f4a1b1acea0fe0800000000000000
+      internalID: -1221904169663401507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_139
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 236
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e96d6f8d31f84f0800000000000000
+      internalID: -824418384210387455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_140
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 236
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ddcccec5b0d9200800000000000000
+      internalID: 188319253157174605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_141
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 236
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d41035698c521ec0800000000000000
+      internalID: -3597711407137680168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_142
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 236
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b043b0ffbe29c40800000000000000
+      internalID: 5517731974119426843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_143
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 236
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace994fc83cbe8200800000000000000
+      internalID: 184291586950667978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_144
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 236
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c0cf03f3a5bfd00800000000000000
+      internalID: 1007498169098701840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_145
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 236
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb0010cddd700700800000000000000
+      internalID: 504541549629017022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_146
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 172
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268956a6f0607e880800000000000000
+      internalID: -8581883901651871646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_147
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 172
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab497c25cd6d68c0800000000000000
+      internalID: -4004423800040371291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_148
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 172
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c39687cb8783070800000000000000
+      internalID: 8086345881813072920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_149
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 172
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acdcd0b48f4367ac0800000000000000
+      internalID: -3857837789780521526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_150
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 172
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f47797e6adb9760800000000000000
+      internalID: 7465800975315849117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_151
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 172
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b049105cb72e0cd0800000000000000
+      internalID: -2590089045940289359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_152
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 172
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c679939826cd970800000000000000
+      internalID: 8781001714981891128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_153
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 172
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179ebaedc74472ff0800000000000000
+      internalID: -61004766843770511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_154
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 172
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0570da90003a68860800000000000000
+      internalID: 7531886647381395280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_155
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 172
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b99eef654fe89ee0800000000000000
+      internalID: -1253989414712993360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_156
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 172
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750bacda2f1262a10800000000000000
+      internalID: 1884230820282675287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_157
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 172
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23927bacc4d72bf80800000000000000
+      internalID: -8092267811659372238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_158
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 172
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ccf8bd4beba5c150800000000000000
+      internalID: 5892304714593795267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_159
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 108
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db52d5472370ce7b0800000000000000
+      internalID: -5193768356983003715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_160
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 108
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d416923af24960130800000000000000
+      internalID: 3532673890040504653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_161
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 108
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41443e3b6074516e0800000000000000
+      internalID: -1867508376361810924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_162
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 108
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82380a9a10fa2530800000000000000
+      internalID: 3831138430076072590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_163
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 108
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63d6e1d30f691120800000000000000
+      internalID: 2385059539866538862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_164
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 108
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d44e02bc2ba7330800000000000000
+      internalID: 3709473828592962943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_165
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 108
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8ecdff3830da340800000000000000
+      internalID: 4876557836980381937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_166
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 108
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae36b304104b2fb0800000000000000
+      internalID: -4671569733760958810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_167
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 108
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70548fb4b5e2fc840800000000000000
+      internalID: 5246463060561380615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_168
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 108
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7973c07ed7412f2d0800000000000000
+      internalID: -3246509850400901225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_169
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 108
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169dc98421f2f24a0800000000000000
+      internalID: -6616017572009813663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_170
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 108
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b26d54697f7a1690800000000000000
+      internalID: -7630646459274272080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_171
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 108
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2f9224f78adac30800000000000000
+      internalID: 4372336077770978000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_172
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 44
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8284af0ae79b480800000000000000
+      internalID: -8882929560152692529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_173
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 43
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3679dbd116a35bf20800000000000000
+      internalID: 3437718079352444771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_174
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 36
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea28467d0ebd3b060800000000000000
+      internalID: 6968154807205135022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_175
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 32
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a019fe4b50e76feb0800000000000000
+      internalID: -4686419799256887030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_176
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 26
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622e7fa45b66c4240800000000000000
+      internalID: 4777306233566126630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Gold_177
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 16
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea7d2de2fe2c6a40800000000000000
+      internalID: 5362712877187562217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Crown_Gold_0: 4162407548099554456
+      Crown_Gold_1: -8551141239175174190
+      Crown_Gold_10: -969746491347040212
+      Crown_Gold_100: -2408392839442018522
+      Crown_Gold_101: -8262871345414195038
+      Crown_Gold_102: -5527402303136035000
+      Crown_Gold_103: -735160386969955671
+      Crown_Gold_104: 1474768835711645413
+      Crown_Gold_105: -1270009057439610973
+      Crown_Gold_106: 6495329143858515226
+      Crown_Gold_107: -4199413554845289830
+      Crown_Gold_108: 2823928109802099866
+      Crown_Gold_109: -5858229599034386811
+      Crown_Gold_11: -2996250550965125111
+      Crown_Gold_110: 8346541868324101861
+      Crown_Gold_111: 8511234877689453712
+      Crown_Gold_112: -1011179623413332705
+      Crown_Gold_113: 2208590141566639636
+      Crown_Gold_114: -7738937821505226968
+      Crown_Gold_115: 7863597691101947755
+      Crown_Gold_116: -6025220580765982446
+      Crown_Gold_117: 2231896003578291917
+      Crown_Gold_118: 8603133970708842891
+      Crown_Gold_119: 2777907225532726834
+      Crown_Gold_12: 6842305090707733891
+      Crown_Gold_120: 7546980934345674282
+      Crown_Gold_121: 7989527616409876964
+      Crown_Gold_122: -6555206566762288148
+      Crown_Gold_123: -5340611529539097181
+      Crown_Gold_124: -4003478404516242216
+      Crown_Gold_125: 5557034337706515423
+      Crown_Gold_126: -1793620429855964602
+      Crown_Gold_127: 8841407113864439743
+      Crown_Gold_128: -8719441443595561565
+      Crown_Gold_129: 3684030392663489888
+      Crown_Gold_13: 8263339831100842754
+      Crown_Gold_130: -2856291629857109205
+      Crown_Gold_131: -3746688308514269568
+      Crown_Gold_132: 4826495983327764510
+      Crown_Gold_133: 3400964166648795793
+      Crown_Gold_134: -8377259149209341532
+      Crown_Gold_135: 8269484066159171316
+      Crown_Gold_136: 610493252737682053
+      Crown_Gold_137: -2626035024273415625
+      Crown_Gold_138: -1221904169663401507
+      Crown_Gold_139: -824418384210387455
+      Crown_Gold_14: -7120882001072008424
+      Crown_Gold_140: 188319253157174605
+      Crown_Gold_141: -3597711407137680168
+      Crown_Gold_142: 5517731974119426843
+      Crown_Gold_143: 184291586950667978
+      Crown_Gold_144: 1007498169098701840
+      Crown_Gold_145: 504541549629017022
+      Crown_Gold_146: -8581883901651871646
+      Crown_Gold_147: -4004423800040371291
+      Crown_Gold_148: 8086345881813072920
+      Crown_Gold_149: -3857837789780521526
+      Crown_Gold_15: 3453958392830812426
+      Crown_Gold_150: 7465800975315849117
+      Crown_Gold_151: -2590089045940289359
+      Crown_Gold_152: 8781001714981891128
+      Crown_Gold_153: -61004766843770511
+      Crown_Gold_154: 7531886647381395280
+      Crown_Gold_155: -1253989414712993360
+      Crown_Gold_156: 1884230820282675287
+      Crown_Gold_157: -8092267811659372238
+      Crown_Gold_158: 5892304714593795267
+      Crown_Gold_159: -5193768356983003715
+      Crown_Gold_16: -9122429713311282984
+      Crown_Gold_160: 3532673890040504653
+      Crown_Gold_161: -1867508376361810924
+      Crown_Gold_162: 3831138430076072590
+      Crown_Gold_163: 2385059539866538862
+      Crown_Gold_164: 3709473828592962943
+      Crown_Gold_165: 4876557836980381937
+      Crown_Gold_166: -4671569733760958810
+      Crown_Gold_167: 5246463060561380615
+      Crown_Gold_168: -3246509850400901225
+      Crown_Gold_169: -6616017572009813663
+      Crown_Gold_17: 2647566356475727350
+      Crown_Gold_170: -7630646459274272080
+      Crown_Gold_171: 4372336077770978000
+      Crown_Gold_172: -8882929560152692529
+      Crown_Gold_173: 3437718079352444771
+      Crown_Gold_174: 6968154807205135022
+      Crown_Gold_175: -4686419799256887030
+      Crown_Gold_176: 4777306233566126630
+      Crown_Gold_177: 5362712877187562217
+      Crown_Gold_18: 7802951823523097115
+      Crown_Gold_19: 2093424462526705895
+      Crown_Gold_2: -6617229824509175652
+      Crown_Gold_20: 6287651665204998333
+      Crown_Gold_21: 7358012531848531037
+      Crown_Gold_22: -4357281895991588702
+      Crown_Gold_23: -8253747846038427077
+      Crown_Gold_24: -618493282624886743
+      Crown_Gold_25: 1284403242772943588
+      Crown_Gold_26: -6130754040051155723
+      Crown_Gold_27: 2907204616476153250
+      Crown_Gold_28: -4889775099318266236
+      Crown_Gold_29: 5893689301723614366
+      Crown_Gold_3: 521885392524087322
+      Crown_Gold_30: -8772874587584063333
+      Crown_Gold_31: 8113631910300999574
+      Crown_Gold_32: 4865889713720636865
+      Crown_Gold_33: -4848368480617306351
+      Crown_Gold_34: -4496009588119986302
+      Crown_Gold_35: -8410141298431494265
+      Crown_Gold_36: -4157499467711555258
+      Crown_Gold_37: 3006986999863415023
+      Crown_Gold_38: -2620728749556118256
+      Crown_Gold_39: 3086777910594368409
+      Crown_Gold_4: 8004603059969375170
+      Crown_Gold_40: -7092496306873387976
+      Crown_Gold_41: -6508978690558080146
+      Crown_Gold_42: -8839345899934929770
+      Crown_Gold_43: 1240367668974033140
+      Crown_Gold_44: 6151169197738425
+      Crown_Gold_45: -1177064184184142869
+      Crown_Gold_46: 3734758408264783734
+      Crown_Gold_47: -8959115095413891733
+      Crown_Gold_48: 5952377849829488658
+      Crown_Gold_49: 2897269157489929348
+      Crown_Gold_5: -8997640614505636820
+      Crown_Gold_50: 3313140251855736750
+      Crown_Gold_51: -2118195238434305990
+      Crown_Gold_52: 8330660055355521140
+      Crown_Gold_53: -5999878787019607273
+      Crown_Gold_54: -5800678239351286040
+      Crown_Gold_55: 6239833160095637444
+      Crown_Gold_56: 8482610197634480023
+      Crown_Gold_57: -694712578931544530
+      Crown_Gold_58: -956592533401624679
+      Crown_Gold_59: 4775351516161394518
+      Crown_Gold_6: -2120611557546296181
+      Crown_Gold_60: 3282749173945161720
+      Crown_Gold_61: -5935402513109109216
+      Crown_Gold_62: 2269022379021181237
+      Crown_Gold_63: 2028112648936208657
+      Crown_Gold_64: 4405843090720370716
+      Crown_Gold_65: 8634407916113202936
+      Crown_Gold_66: 1584357244943596339
+      Crown_Gold_67: -7780449479418082827
+      Crown_Gold_68: -1043260957970606844
+      Crown_Gold_69: -8477036901614695125
+      Crown_Gold_7: 6117667509390825557
+      Crown_Gold_70: -1303999717730249900
+      Crown_Gold_71: 9145794323052080457
+      Crown_Gold_72: -8978365608066717448
+      Crown_Gold_73: -6850227933405559786
+      Crown_Gold_74: -8464767631749048874
+      Crown_Gold_75: 5017383740430881754
+      Crown_Gold_76: -5919052708428817965
+      Crown_Gold_77: -4632458423314049566
+      Crown_Gold_78: -1846993662915711991
+      Crown_Gold_79: -2340382480427569333
+      Crown_Gold_8: -6447461954469118931
+      Crown_Gold_80: 4089003667740058638
+      Crown_Gold_81: 7279448708949379672
+      Crown_Gold_82: 8722801403612590868
+      Crown_Gold_83: -5037660745135415944
+      Crown_Gold_84: -2265838185517522748
+      Crown_Gold_85: 6409516559183570798
+      Crown_Gold_86: 7907676604680116801
+      Crown_Gold_87: 1678121970422034796
+      Crown_Gold_88: -576229440191857176
+      Crown_Gold_89: -8988905303344043724
+      Crown_Gold_9: -6045639747893554321
+      Crown_Gold_90: -2871539316238887787
+      Crown_Gold_91: 1326588315358955914
+      Crown_Gold_92: -182037991084223848
+      Crown_Gold_93: 3261495507002394249
+      Crown_Gold_94: 4611494691259884199
+      Crown_Gold_95: -8417221791689648261
+      Crown_Gold_96: 4492581527461670851
+      Crown_Gold_97: -5487466850110169089
+      Crown_Gold_98: 7050094600118447755
+      Crown_Gold_99: -3846003784046701482
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

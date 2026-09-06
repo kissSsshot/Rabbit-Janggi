@@ -1,0 +1,1391 @@
+fileFormatVersion: 2
+guid: 3007010562ec1b144851dcb414d4d69e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9189267433104897142
+    second: WhiteKingRabbit_0
+  - first:
+      213: -5724692042153985809
+    second: WhiteKingRabbit_1
+  - first:
+      213: 5816895471494100575
+    second: WhiteKingRabbit_2
+  - first:
+      213: -9223115244657084992
+    second: WhiteKingRabbit_3
+  - first:
+      213: 3032165401166858168
+    second: WhiteKingRabbit_4
+  - first:
+      213: 7996440584348535005
+    second: WhiteKingRabbit_5
+  - first:
+      213: 960530443613139428
+    second: WhiteKingRabbit_6
+  - first:
+      213: 3706147670878925269
+    second: WhiteKingRabbit_7
+  - first:
+      213: -8258672128709330608
+    second: WhiteKingRabbit_8
+  - first:
+      213: -181331414058355710
+    second: WhiteKingRabbit_9
+  - first:
+      213: 5860254378115284576
+    second: WhiteKingRabbit_10
+  - first:
+      213: 4427218631701480463
+    second: WhiteKingRabbit_11
+  - first:
+      213: 7540645896001371339
+    second: WhiteKingRabbit_12
+  - first:
+      213: 6402439911092380159
+    second: WhiteKingRabbit_13
+  - first:
+      213: -3142167247150941812
+    second: WhiteKingRabbit_14
+  - first:
+      213: 3706810094697871031
+    second: WhiteKingRabbit_15
+  - first:
+      213: -3624351077492301432
+    second: WhiteKingRabbit_16
+  - first:
+      213: -3687102812862996649
+    second: WhiteKingRabbit_17
+  - first:
+      213: 8038328877586780004
+    second: WhiteKingRabbit_18
+  - first:
+      213: -7164997811822972877
+    second: WhiteKingRabbit_19
+  - first:
+      213: 3252281827383768567
+    second: WhiteKingRabbit_20
+  - first:
+      213: -5885836156441222559
+    second: WhiteKingRabbit_21
+  - first:
+      213: 6294916065704582809
+    second: WhiteKingRabbit_22
+  - first:
+      213: 5503624520399914983
+    second: WhiteKingRabbit_23
+  - first:
+      213: -8823944038623339600
+    second: WhiteKingRabbit_24
+  - first:
+      213: 9166584610624313678
+    second: WhiteKingRabbit_25
+  - first:
+      213: -6679720315332850486
+    second: WhiteKingRabbit_26
+  - first:
+      213: 2185756392756170957
+    second: WhiteKingRabbit_27
+  - first:
+      213: -3237918264794845380
+    second: WhiteKingRabbit_28
+  - first:
+      213: 8571007335721996924
+    second: WhiteKingRabbit_29
+  - first:
+      213: -3791858927312447437
+    second: WhiteKingRabbit_30
+  - first:
+      213: -4323925662150621480
+    second: WhiteKingRabbit_31
+  - first:
+      213: -3812726213508815908
+    second: WhiteKingRabbit_32
+  - first:
+      213: 1638667493024564775
+    second: WhiteKingRabbit_33
+  - first:
+      213: -8606439882358469869
+    second: WhiteKingRabbit_34
+  - first:
+      213: -1567377835658483797
+    second: WhiteKingRabbit_35
+  - first:
+      213: 7646670683684676729
+    second: WhiteKingRabbit_36
+  - first:
+      213: -4260477340459599330
+    second: WhiteKingRabbit_37
+  - first:
+      213: -546292232041309378
+    second: WhiteKingRabbit_38
+  - first:
+      213: -7680552874964733146
+    second: WhiteKingRabbit_39
+  - first:
+      213: 3724242421710081233
+    second: WhiteKingRabbit_40
+  - first:
+      213: 4400398443198103265
+    second: WhiteKingRabbit_41
+  - first:
+      213: 2698767412876814019
+    second: WhiteKingRabbit_42
+  - first:
+      213: -5427937098382273223
+    second: WhiteKingRabbit_43
+  - first:
+      213: 1963079522013791173
+    second: WhiteKingRabbit_44
+  - first:
+      213: -4644234971229449491
+    second: WhiteKingRabbit_45
+  - first:
+      213: -6626746491607696146
+    second: WhiteKingRabbit_46
+  - first:
+      213: 2862429040403863475
+    second: WhiteKingRabbit_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WhiteKingRabbit_0
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 917
+        width: 80
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b87b7d4f9297080800000000000000
+      internalID: -9189267433104897142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteKingRabbit_1
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 917
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8f7ea1beecd80b0800000000000000
+      internalID: -5724692042153985809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteKingRabbit_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 815
+        width: 73
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56fbf1bc93c9b050800000000000000
+      internalID: 5816895471494100575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteKingRabbit_3
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 815
+        width: 72
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c579b71d89e00080800000000000000
+      internalID: -9223115244657084992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteKingRabbit_4
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 815
+        width: 73
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7c7c40e5a641a20800000000000000
+      internalID: 3032165401166858168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteKingRabbit_5
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 815
+        width: 76
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd88c91385019fe60800000000000000
+      internalID: 7996440584348535005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteKingRabbit_6
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 815
+        width: 78
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1728f695d745d00800000000000000
+      internalID: 960530443613139428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteKingRabbit_7
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 815
+        width: 77
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d131efaba1ee6330800000000000000
+      internalID: 3706147670878925269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteKingRabbit_8
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 815
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0597cdb847d436d80800000000000000
+      internalID: -8258672128709330608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteKingRabbit_9
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 815
+        width: 74
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204be662a08cb7df0800000000000000
+      internalID: -181331414058355710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteKingRabbit_10
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 689
+        width: 77
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e3df4de4ec35150800000000000000
+      internalID: 5860254378115284576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteKingRabbit_11
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 690
+        width: 68
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04ce8d93e3a07d30800000000000000
+      internalID: 4427218631701480463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteKingRabbit_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 581
+        width: 77
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc3b288d71c5a860800000000000000
+      internalID: 7540645896001371339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteKingRabbit_13
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 571
+        width: 74
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1e1747d290ad850800000000000000
+      internalID: 6402439911092380159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteKingRabbit_14
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 575
+        width: 77
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8973b06987c464d0800000000000000
+      internalID: -3142167247150941812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteKingRabbit_15
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 581
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b67c40442c317330800000000000000
+      internalID: 3706810094697871031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteKingRabbit_16
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 581
+        width: 79
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88164ccc5e7b3bdc0800000000000000
+      internalID: -3624351077492301432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteKingRabbit_17
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 581
+        width: 80
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f15fcd687c4dcc0800000000000000
+      internalID: -3687102812862996649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteKingRabbit_18
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 581
+        width: 77
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f03587681ed8f60800000000000000
+      internalID: 8038328877586780004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteKingRabbit_19
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 579
+        width: 76
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33037d1b370d09c90800000000000000
+      internalID: -7164997811822972877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteKingRabbit_20
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 461
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5faa6371d622d20800000000000000
+      internalID: 3252281827383768567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteKingRabbit_21
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 383
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162ab21433f415ea0800000000000000
+      internalID: -5885836156441222559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteKingRabbit_22
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 474
+        width: 87
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e98335fc80c5750800000000000000
+      internalID: 6294916065704582809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteKingRabbit_23
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 375
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e70193875dc06c40800000000000000
+      internalID: 5503624520399914983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteKingRabbit_24
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 354
+        width: 91
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb1eebe5ad0b8580800000000000000
+      internalID: -8823944038623339600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteKingRabbit_25
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 371
+        width: 102
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4913dff220463f70800000000000000
+      internalID: 9166584610624313678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteKingRabbit_26
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 374
+        width: 98
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc00ad83cddc43a0800000000000000
+      internalID: -6679720315332850486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteKingRabbit_27
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 377
+        width: 96
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc055cbcbdd555e10800000000000000
+      internalID: 2185756392756170957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteKingRabbit_28
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 378
+        width: 96
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f672f4e7a9013d0800000000000000
+      internalID: -3237918264794845380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteKingRabbit_29
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 378
+        width: 90
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c721afcb2c552f670800000000000000
+      internalID: 8571007335721996924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteKingRabbit_30
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 165
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338d52f456c906bc0800000000000000
+      internalID: -3791858927312447437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteKingRabbit_31
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 241
+        width: 90
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d60158f4845ef3c0800000000000000
+      internalID: -4323925662150621480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteKingRabbit_32
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 215
+        width: 100
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3acf1a5b9761bc0800000000000000
+      internalID: -3812726213508815908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteKingRabbit_33
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 237
+        width: 80
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72685b22767bdb610800000000000000
+      internalID: 1638667493024564775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteKingRabbit_34
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 175
+        width: 88
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31bc44f9688cf8880800000000000000
+      internalID: -8606439882358469869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteKingRabbit_35
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 175
+        width: 97
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba761cca92e8f3ae0800000000000000
+      internalID: -1567377835658483797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteKingRabbit_36
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 177
+        width: 106
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9742b67197e6e1a60800000000000000
+      internalID: 7646670683684676729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteKingRabbit_37
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 177
+        width: 99
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1afd4c8e6ebfd4c0800000000000000
+      internalID: -4260477340459599330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteKingRabbit_38
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 129
+        width: 88
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b5f9dfb1e2b68f0800000000000000
+      internalID: -546292232041309378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteKingRabbit_39
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 39
+        width: 88
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6233f118ad1396590800000000000000
+      internalID: -7680552874964733146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteKingRabbit_40
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 135
+        width: 89
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc487b20ca2fa330800000000000000
+      internalID: 3724242421710081233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteKingRabbit_41
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 38
+        width: 80
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee310dd11b511d30800000000000000
+      internalID: 4400398443198103265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteKingRabbit_42
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 39
+        width: 85
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c62cefc9a2f37520800000000000000
+      internalID: 2698767412876814019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteKingRabbit_43
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 39
+        width: 96
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93592cba7f71ca4b0800000000000000
+      internalID: -5427937098382273223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteKingRabbit_44
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 39
+        width: 98
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3c977ac624e3b10800000000000000
+      internalID: 1963079522013791173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteKingRabbit_45
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 41
+        width: 96
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de21c6e56ec5c8fb0800000000000000
+      internalID: -4644234971229449491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteKingRabbit_46
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 39
+        width: 99
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec38270d211904a0800000000000000
+      internalID: -6626746491607696146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteKingRabbit_47
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 41
+        width: 101
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7d804eb0469b720800000000000000
+      internalID: 2862429040403863475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      WhiteKingRabbit_0: -9189267433104897142
+      WhiteKingRabbit_1: -5724692042153985809
+      WhiteKingRabbit_10: 5860254378115284576
+      WhiteKingRabbit_11: 4427218631701480463
+      WhiteKingRabbit_12: 7540645896001371339
+      WhiteKingRabbit_13: 6402439911092380159
+      WhiteKingRabbit_14: -3142167247150941812
+      WhiteKingRabbit_15: 3706810094697871031
+      WhiteKingRabbit_16: -3624351077492301432
+      WhiteKingRabbit_17: -3687102812862996649
+      WhiteKingRabbit_18: 8038328877586780004
+      WhiteKingRabbit_19: -7164997811822972877
+      WhiteKingRabbit_2: 5816895471494100575
+      WhiteKingRabbit_20: 3252281827383768567
+      WhiteKingRabbit_21: -5885836156441222559
+      WhiteKingRabbit_22: 6294916065704582809
+      WhiteKingRabbit_23: 5503624520399914983
+      WhiteKingRabbit_24: -8823944038623339600
+      WhiteKingRabbit_25: 9166584610624313678
+      WhiteKingRabbit_26: -6679720315332850486
+      WhiteKingRabbit_27: 2185756392756170957
+      WhiteKingRabbit_28: -3237918264794845380
+      WhiteKingRabbit_29: 8571007335721996924
+      WhiteKingRabbit_3: -9223115244657084992
+      WhiteKingRabbit_30: -3791858927312447437
+      WhiteKingRabbit_31: -4323925662150621480
+      WhiteKingRabbit_32: -3812726213508815908
+      WhiteKingRabbit_33: 1638667493024564775
+      WhiteKingRabbit_34: -8606439882358469869
+      WhiteKingRabbit_35: -1567377835658483797
+      WhiteKingRabbit_36: 7646670683684676729
+      WhiteKingRabbit_37: -4260477340459599330
+      WhiteKingRabbit_38: -546292232041309378
+      WhiteKingRabbit_39: -7680552874964733146
+      WhiteKingRabbit_4: 3032165401166858168
+      WhiteKingRabbit_40: 3724242421710081233
+      WhiteKingRabbit_41: 4400398443198103265
+      WhiteKingRabbit_42: 2698767412876814019
+      WhiteKingRabbit_43: -5427937098382273223
+      WhiteKingRabbit_44: 1963079522013791173
+      WhiteKingRabbit_45: -4644234971229449491
+      WhiteKingRabbit_46: -6626746491607696146
+      WhiteKingRabbit_47: 2862429040403863475
+      WhiteKingRabbit_5: 7996440584348535005
+      WhiteKingRabbit_6: 960530443613139428
+      WhiteKingRabbit_7: 3706147670878925269
+      WhiteKingRabbit_8: -8258672128709330608
+      WhiteKingRabbit_9: -181331414058355710
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
