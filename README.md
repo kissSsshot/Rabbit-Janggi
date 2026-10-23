@@ -20,3 +20,4 @@ Unity로 제작한 턴제 전략 보드게임입니다.
 ## Play
 
 itch.io에서 플레이할 수 있습니다.
+https://kissssshot.itch.io/rabbit-jangqqi
